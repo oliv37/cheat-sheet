@@ -16,3 +16,9 @@ Schemas
 Shebang
 - `#!/usr/bin/bash`
 - `#!/usr/bin/env bash`
+
+## Tomcat
+
+- `CATALINA_HOME`: Represents the root of your Tomcat installation.
+- `CATALINA_BASE`: Represents the root of a runtime configuration of a specific Tomcat instance.
+
